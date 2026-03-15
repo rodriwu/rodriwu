@@ -36,6 +36,9 @@ I design digital products that bridge brand, UX, and development — turning str
 |---|---|
 | [ivosanra.com](https://ivosanra.com) | Design & Development |
 | [tricologobrendalemus.com](https://tricologobrendalemus.com) | Design & Development |
+| [talitha.com](https://talitha.com) | Design & Development |
+| [omnicommon.com](https://omnicommon.com) | Design & Development |
+| [barrelservice.com](https://barrelservice.com) | Design & Development |
 | [rodriwu.com](https://rodriwu.com) | Portfolio |
 | [Behance](https://www.behance.net/rodriwu) | Case Studies |
 
