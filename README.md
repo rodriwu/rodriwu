@@ -42,4 +42,5 @@ I design digital products that bridge brand, UX, and development — turning str
 ### Get in touch
 
 [![Portfolio](https://img.shields.io/badge/rodriwu.com-000000?style=flat-square&logo=safari&logoColor=white)](https://rodriwu.com)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/rodriwu)
 [![Email](https://img.shields.io/badge/rodriwuu@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rodriwuu@gmail.com)
