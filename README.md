@@ -48,4 +48,5 @@ I design digital products that bridge brand, UX, and development — turning str
 
 [![Portfolio](https://img.shields.io/badge/rodriwu.com-000000?style=flat-square&logo=safari&logoColor=white)](https://rodriwu.com)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/rodriwu)
+[![Work GitHub](https://img.shields.io/badge/Work-rodrigoomni-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rodrigoomni)
 [![Email](https://img.shields.io/badge/rodriwuu@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rodriwuu@gmail.com)
